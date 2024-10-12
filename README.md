@@ -9,6 +9,8 @@ https://github.com/user-attachments/assets/7d9dc1bf-5f5d-44f0-a5af-84960138a53d
 
 https://github.com/user-attachments/assets/8668e554-4abe-4af8-b8ed-88e0b43b79fe
 
+[modifying the potential values]()
+
 
 
 
