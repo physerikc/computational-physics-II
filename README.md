@@ -8,7 +8,9 @@ https://github.com/user-attachments/assets/dab1f8a7-b954-4205-a6a4-740f0e13313d
 
 [descending potential line](https://github.com/physerikc/computational-physics-II/blob/main/videos%20list2/descending%20potential%20line.mp4)
 
-https://github.com/user-attachments/assets/8668e554-4abe-4af8-b8ed-88e0b43b79fe
+https://github.com/user-attachments/assets/60aafd45-b162-4d22-b21c-9be6fc3b3640
+
+<br/>
 
 [modifying the potential values]()
 
