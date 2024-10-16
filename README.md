@@ -4,7 +4,9 @@ To download some video.mp4, click on the link below and click "view raw" in blue
 
 link: [rotationg charges](https://github.com/physerikc/computational-physics-II/blob/main/videos%20list2/rotating%20charges.mp4)
 
-<div align="center"> [Seu título aqui](https://github.com/user-attachments/assets/dab1f8a7-b954-4205-a6a4-740f0e13313d) </div>
+\center{https://github.com/user-attachments/assets/dab1f8a7-b954-4205-a6a4-740f0e13313d}
+
+
 
 
 
