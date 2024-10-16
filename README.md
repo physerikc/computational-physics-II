@@ -1,6 +1,6 @@
 To download some video.mp4, click on the link below and click "view raw" in blue
 
-## list 2 videos
+## videos list 2
 
 link: [rotationg charges](https://github.com/physerikc/computational-physics-II/blob/main/videos%20list2/rotating%20charges.mp4)
 
@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/429da93d-05ab-4748-9ce3-9a1d4755a984
 
 <br/>
 
-## list3 videos
+## videos list 3
 
 link: [projectile launch](https://github.com/physerikc/computational-physics-II/tree/main/videos%20list3)
 
