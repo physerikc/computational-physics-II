@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/6872b3b7-df74-4242-b783-aa940add794d
 
 <br/>
 
-link: [brownian motion]()
+link: [brownian motion](https://github.com/physerikc/computational-physics-II/blob/main/videos%20list4/brownian%20motion.mp4)
 
 https://github.com/user-attachments/assets/bdda8d78-780c-4f69-8a3f-81164cf06321
 
