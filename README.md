@@ -30,6 +30,15 @@ link: [projectile launch](https://github.com/physerikc/computational-physics-II/
 
 https://github.com/user-attachments/assets/6872b3b7-df74-4242-b783-aa940add794d
 
+## videos list 4
+
+<br/>
+
+link: [brownian motion]()
+
+https://github.com/user-attachments/assets/bdda8d78-780c-4f69-8a3f-81164cf06321
+
+
 
 
 
